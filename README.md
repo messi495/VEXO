@@ -1,5 +1,5 @@
 # VEXO
-
+### DESCRIPCION DEL PROYECTO 
 Estoy desarrollando mi Trabajo Fin de Ciclo (TFC) del CFGS de Desarrollo de Aplicaciones Multiplataforma. El proyecto consiste en una aplicación móvil Android llamada Vexo, desarrollada en Android Studio con Kotlin, cuyo objetivo es ayudar a los usuarios a descubrir, organizar y decidir qué películas y series ver, reduciendo el tiempo de decisión y la saturación de contenido actual. 
 La aplicación consumirá una API externa de cine y series (TMDB) para obtener información real y actualizada sobre películas y series, incluyendo contenido en tendencia, estrenos recientes, películas en cartelera, series populares y próximos lanzamientos. Vexo contará con varias funcionalidades principales: Recomendaciones de películas y series mediante dos métodos: 
 
@@ -11,7 +11,7 @@ Recomendaciones basadas en el historial del usuario. La aplicación seguirá una
 
 De forma opcional y como ampliación, se plantea integrar un componente de IA ligera, no generativa, orientada a mejorar las recomendaciones y la interpretación de búsquedas en lenguaje natural, sin intentar replicar sistemas complejos como los de Netflix. El proyecto está pensado para desarrollarse en varios meses y es totalmente factible a nivel académico, priorizando una implementación realista, funcional y bien documentada. Esto es el prompt que me has dado en otra conversación, ya tengo la API y tengo el repositorio del respectivo proyecto.
 
-## STACK FINAL QUE VAS A USAR (decisión cerrada)
+## STACK FINAL QUE SE VAN A USAR
 
 Para que no haya dudas ni cambios luego:
 
